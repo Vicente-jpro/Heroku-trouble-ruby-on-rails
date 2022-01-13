@@ -20,6 +20,7 @@ https://stackoverflow.com/questions/13362288/heroku-push-rejected-submodule-inst
 2 - heroku keys:add
 3 - heroku rename app-name
 
+For manager Ruby version after install rbenv
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
 echo 'eval "$(rbenv init -)"' >> ~/.zshrc
 source ~/.zshrc
