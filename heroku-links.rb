@@ -35,3 +35,8 @@ yarn install --check-files
 
 Sending Emails in Rails with Action Mailer and Gmail
 https://dev.to/morinoko/sending-emails-in-rails-with-action-mailer-and-gmail-35g4
+
+
+
+Ruby Rails Gmail SMTP
+https://jch.github.io/posts/2010-01-11-ruby-rails-gmail-smtp.html
