@@ -30,3 +30,8 @@ bundle install --without production
 
 Action text
 yarn install --check-files
+
+
+
+Sending Emails in Rails with Action Mailer and Gmail
+https://dev.to/morinoko/sending-emails-in-rails-with-action-mailer-and-gmail-35g4
