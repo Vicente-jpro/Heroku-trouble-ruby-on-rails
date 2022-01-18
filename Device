@@ -1,2 +1,8 @@
 How To: Add :confirmable to Users
 https://github.com/heartcombo/devise/wiki/How-To%3A-Add-%3Aconfirmable-to-Users
+
+
+
+gem 'devise'
+gem 'twitter-boostrap-rails'
+gem 'devise-bootstrap-viewa
