@@ -2,7 +2,9 @@ How To: Add :confirmable to Users
 https://github.com/heartcombo/devise/wiki/How-To%3A-Add-%3Aconfirmable-to-Users
 
 
+Devise Bootstrap Views
+https://github.com/hisea/devise-bootstrap-views
 
-gem 'devise'
-gem 'twitter-boostrap-rails'
-gem 'devise-bootstrap-viewa
+Twitter Bootstrap for Rails 6, 5 and 4 Asset Pipeline
+https://github.com/seyhunak/twitter-bootstrap-rails
+
