@@ -9,3 +9,8 @@ https://github.com/nodejs/help/issues/3644
 curl -fsSL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt-get install -y nodejs
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+npm deprecated
+https://github.com/lydell/source-map-resolve#deprecated
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
