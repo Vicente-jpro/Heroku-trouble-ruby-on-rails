@@ -1,0 +1,8 @@
+The simplest is to update to Node.js v12:
+
+https://askubuntu.com/questions/1382565/npm-does-not-support-node-js-v10-19-0/1382566#1382566
+https://github.com/nodejs/help/issues/3644
+
+curl -fsSL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+sudo apt-get install -y nodejs
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
