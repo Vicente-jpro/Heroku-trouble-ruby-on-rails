@@ -40,3 +40,7 @@ https://dev.to/morinoko/sending-emails-in-rails-with-action-mailer-and-gmail-35g
 
 Ruby Rails Gmail SMTP
 https://jch.github.io/posts/2010-01-11-ruby-rails-gmail-smtp.html
+
+
+Java versions to deploy spring boot app
+https://devcenter.heroku.com/articles/java-support#supported-java-versions
