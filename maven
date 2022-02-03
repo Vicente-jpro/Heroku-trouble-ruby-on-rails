@@ -1,0 +1,3 @@
+Generate jar or war 
+mvn package
+java -jar target/name-package.jar
