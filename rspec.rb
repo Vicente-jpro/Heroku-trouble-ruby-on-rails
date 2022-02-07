@@ -1,0 +1,2 @@
+Initialize rspec
+rspec --init
