@@ -8,3 +8,5 @@ https://github.com/hisea/devise-bootstrap-views
 Twitter Bootstrap for Rails 6, 5 and 4 Asset Pipeline
 https://github.com/seyhunak/twitter-bootstrap-rails
 
+undefined method `users_url' for #<Devise::RegistrationsController:0x00000005018470>
+https://github.com/heartcombo/devise/issues/5439
