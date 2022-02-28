@@ -18,6 +18,12 @@ https://devcenter.heroku.com/articles/ruby-versions#your-ruby-version-is-x-but-y
 Heroku push rejected submodule
 https://stackoverflow.com/questions/13362288/heroku-push-rejected-submodule-install-failed
 
+$ mkdir ~/.ssh
+$ cd ~/.ssh
+$ ls
+$ cat id_rsa.pub
+ # copy de ssh key and past to your github
+
 1 - heroku create
 2 - heroku keys:add
 3 - heroku rename app-name
