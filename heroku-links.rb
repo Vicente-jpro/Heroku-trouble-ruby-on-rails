@@ -22,7 +22,8 @@ $ mkdir ~/.ssh
 $ cd ~/.ssh
 $ ls
 $ cat id_rsa.pub
- # copy de ssh key and past to your github
+ # copy de ssh key and past to your github 
+    # https://github.com/Vicente-jpro/business-app/settings/keys/new
 
 1 - heroku create
 2 - heroku keys:add
