@@ -5,6 +5,8 @@ https://devcenter.heroku.com/articles/git
 Getting Started on Heroku with Rails 6.x
 https://devcenter.heroku.com/articles/getting-started-with-rails6
 
+Heroku CLI 
+https://devcenter.heroku.com/articles/using-the-cli
 
 'EISDIR: illegal operation on a directory' error when running CLI commands
 #986
