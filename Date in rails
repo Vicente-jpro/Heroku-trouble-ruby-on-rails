@@ -1,0 +1,2 @@
+Get the day of the week
+<%= Date.today.strftime('%A') %>
