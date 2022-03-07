@@ -1,3 +1,5 @@
+How to link a folder with an existing Heroku app
+https://stackoverflow.com/questions/5129598/how-to-link-a-folder-with-an-existing-heroku-app
 
 Deploying with Git
 https://devcenter.heroku.com/articles/git
