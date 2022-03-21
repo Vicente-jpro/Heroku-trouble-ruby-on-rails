@@ -1,2 +1,3 @@
 Pagination
 https://github.com/kaminari/kaminari
+https://github.com/rails-api/active_model_serializers/blob/v0.10.6/docs/howto/add_pagination_links.md
