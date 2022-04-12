@@ -14,14 +14,21 @@ https://devcenter.heroku.com/articles/using-the-cli
 #986
 https://github.com/heroku/cli/issues/986
 
+
+
 Specifying a Ruby Version
 https://devcenter.heroku.com/articles/ruby-versions#your-ruby-version-is-x-but-your-gemfile-specified-y
 
 Your bundle is locked to mimemagic (0.3.5), but that version could not be found in any of the sources listed in your Gemfile [duplicate]
 https://stackoverflow.com/questions/66919504/your-bundle-is-locked-to-mimemagic-0-3-5-but-that-version-could-not-be-found
 
+bundle install error - ruby_dep-1.5.0 requires ruby version >= 2.2.5 but I have version 3.0.1p64
+https://stackoverflow.com/questions/68219465/bundle-install-error-ruby-dep-1-5-0-requires-ruby-version-2-2-5-but-i-have
+
 Heroku push rejected submodule
 https://stackoverflow.com/questions/13362288/heroku-push-rejected-submodule-install-failed
+
+
 
 $ mkdir ~/.ssh
 $ cd ~/.ssh
