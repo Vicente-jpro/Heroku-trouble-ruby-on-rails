@@ -28,6 +28,10 @@ https://stackoverflow.com/questions/68219465/bundle-install-error-ruby-dep-1-5-0
 Heroku push rejected submodule
 https://stackoverflow.com/questions/13362288/heroku-push-rejected-submodule-install-failed
 
+Update my old rails to a new version 
+https://www.fastruby.io/blog/rails/upgrades/upgrade-rails-6-1-to-7-0.html
+
+
 
 
 $ mkdir ~/.ssh
