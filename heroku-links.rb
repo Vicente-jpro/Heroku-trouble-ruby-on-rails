@@ -17,6 +17,9 @@ https://github.com/heroku/cli/issues/986
 Specifying a Ruby Version
 https://devcenter.heroku.com/articles/ruby-versions#your-ruby-version-is-x-but-your-gemfile-specified-y
 
+Your bundle is locked to mimemagic (0.3.5), but that version could not be found in any of the sources listed in your Gemfile [duplicate]
+https://stackoverflow.com/questions/66919504/your-bundle-is-locked-to-mimemagic-0-3-5-but-that-version-could-not-be-found
+
 Heroku push rejected submodule
 https://stackoverflow.com/questions/13362288/heroku-push-rejected-submodule-install-failed
 
