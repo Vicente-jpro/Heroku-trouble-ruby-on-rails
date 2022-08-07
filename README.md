@@ -12,4 +12,6 @@ https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-
 
 ## Documentation
 <pre> https://github.com/sdogruyol/awesome-ruby
+
+https://github.com/gramantin/awesome-rails
 </pre>
