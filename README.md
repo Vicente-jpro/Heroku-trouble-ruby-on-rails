@@ -15,3 +15,5 @@ https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-
 
 https://github.com/gramantin/awesome-rails
 </pre>
+
+<a href="https://gist.github.com/jwo/4512764"> Database configurations </a>
