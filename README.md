@@ -18,9 +18,13 @@ https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-
 </pre>
 
 ### Documentation
-<pre> https://github.com/sdogruyol/awesome-ruby
 
-https://github.com/gramantin/awesome-rails
-</pre>
+<a href="https://github.com/sdogruyol/awesome-ruby"> Awesome Ruby </a>
+<a href="https://github.com/gramantin/awesome-rails"> Awesome Rails </a>
 
-<a href="https://gist.github.com/jwo/4512764"> Database configurations </a>
+
+
+### HTML Templates them
+<a href="https://themeforest.net/"> themeforest.net </a>
+<a href="https://startbootstrap.com/"> startbootstrap.com  </a>
+
