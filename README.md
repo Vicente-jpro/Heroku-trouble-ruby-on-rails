@@ -25,10 +25,10 @@ https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-
 
 
 ### HTML Templates Theme 
-<a href="https://themeforest.net/"> themeforest.net </a>
-<br/>
-<a href="https://startbootstrap.com/"> startbootstrap.com  </a>
-
+<ol>
+ <li> <a href="https://themeforest.net/"> themeforest.net </a> </li>
+ <li> <a href="https://startbootstrap.com/"> startbootstrap.com  </a> </li>
+</ol>
 
 ### Build web sites or modify. 
 <a href="https://pt.wix.com/"> Wix </a>
