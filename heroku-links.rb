@@ -70,6 +70,8 @@ https://jch.github.io/posts/2010-01-11-ruby-rails-gmail-smtp.html
 Rails 7 + Devise Not seeing flash messages from devise
 https://stackoverflow.com/questions/70471054/rails-7-devise-not-seeing-flash-messages-from-devise
 
+Import regular CSS file in SCSS file
+https://stackoverflow.com/questions/7111610/import-regular-css-file-in-scss-file
 
 Java versions to deploy spring boot app
 https://devcenter.heroku.com/articles/java-support#supported-java-versions
