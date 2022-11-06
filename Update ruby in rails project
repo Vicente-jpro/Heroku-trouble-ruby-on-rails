@@ -5,3 +5,6 @@ https://stackoverflow.com/questions/18363090/bundle-install-error
 
 gem install bundler
 bundle update
+
+visit_Psych_Nodes_Alias: Unknown alias: default (Psych::BadAlias)
+https://stackoverflow.com/questions/71191685/visit-psych-nodes-alias-unknown-alias-default-psychbadalias
