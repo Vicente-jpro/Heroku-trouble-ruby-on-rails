@@ -1,0 +1,7 @@
+If you find a javascript error, install nodejs
+
+Bundle install error
+https://stackoverflow.com/questions/18363090/bundle-install-error
+
+gem install bundler
+bundle update
