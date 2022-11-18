@@ -75,3 +75,12 @@ https://stackoverflow.com/questions/7111610/import-regular-css-file-in-scss-file
 
 Java versions to deploy spring boot app
 https://devcenter.heroku.com/articles/java-support#supported-java-versions
+
+#############################
+#Display logs
+heroku run rake rails console
+heroku logs
+
+#Access adata base
+heroku run rails console
+
