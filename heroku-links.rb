@@ -84,3 +84,5 @@ heroku logs
 #Access adata base
 heroku run rails console
 
+#updating database schema
+heroku rake db:migrate
