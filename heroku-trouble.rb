@@ -14,6 +14,9 @@ https://devcenter.heroku.com/articles/using-the-cli
 #986
 https://github.com/heroku/cli/issues/986
 
+heroku not updating database schema
+https://stackoverflow.com/questions/4007425/heroku-not-updating-database-schema
+
 
 
 Specifying a Ruby Version
@@ -62,6 +65,7 @@ Sending Emails in Rails with Action Mailer and Gmail
 https://dev.to/morinoko/sending-emails-in-rails-with-action-mailer-and-gmail-35g4
 
 
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04
 
 Ruby Rails Gmail SMTP
 https://jch.github.io/posts/2010-01-11-ruby-rails-gmail-smtp.html
