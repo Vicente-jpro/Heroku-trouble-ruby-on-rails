@@ -64,7 +64,7 @@ yarn install --check-files
 Sending Emails in Rails with Action Mailer and Gmail
 https://dev.to/morinoko/sending-emails-in-rails-with-action-mailer-and-gmail-35g4
 
-
+How To Install and Configure Redis on Ubuntu
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04
 
 Ruby Rails Gmail SMTP
