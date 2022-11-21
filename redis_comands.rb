@@ -1,3 +1,9 @@
+
+How To Install and Configure Redis on Ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04
+
+
+
 ################ Remove redis-server ########################
 # if you use apt-get to install redis then use
 sudo apt-get purge --auto-remove redis-server
