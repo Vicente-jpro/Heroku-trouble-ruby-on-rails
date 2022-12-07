@@ -10,3 +10,6 @@ https://github.com/seyhunak/twitter-bootstrap-rails
 
 undefined method `users_url' for #<Devise::RegistrationsController:0x00000005018470>
 https://github.com/heartcombo/devise/issues/5439
+
+devise_token_auth 1.1.0 installation fails with "undefined method 'devise' for User" #1276
+https://github.com/lynndylanhurley/devise_token_auth/issues/1276
