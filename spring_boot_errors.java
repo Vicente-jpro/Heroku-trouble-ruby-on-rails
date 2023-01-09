@@ -20,6 +20,13 @@ Then kill the process with kill <pid>
  
  https://stackoverflow.com/questions/12737293/how-do-i-resolve-the-java-net-bindexception-address-already-in-use-jvm-bind
 
+##########################################################################
+
+
+How to Install Maven on Linux (Ubuntu)
+ https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu
+
+
 ###########################################################################
  H2 database connection
 application:
