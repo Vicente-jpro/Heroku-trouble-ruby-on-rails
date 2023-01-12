@@ -58,5 +58,10 @@ spring:
 #      <artifactId>h2</artifactId>
 #    </dependency>
 ###############################################################################
+Hibernate Error executing DDL via JDBC Statement
 
+https://stackoverflow.com/questions/43191294/hibernate-error-executing-ddl-via-jdbc-statement
+Adding this configuration in application.properties file to fixed this issue easily.
 
+spring.jpa.properties.hibernate.globally_quoted_identifiers=true
+################################################################################
