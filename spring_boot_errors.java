@@ -65,3 +65,32 @@ Adding this configuration in application.properties file to fixed this issue eas
 
 spring.jpa.properties.hibernate.globally_quoted_identifiers=true
 ################################################################################
+
+ERROR TYPE
+Description:
+
+The dependencies of some of the beans in the application context form a cycle:
+
+┌─────┐
+|  securityConfiguration (field private com.prity.springbootdemo1.service.UserService com.prity.springbootdemo1.config.SecurityConfiguration.userService)
+↑     ↓
+|  userServiceImpl (field private org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder com.prity.springbootdemo1.service.UserServiceImpl.passwordEncoder)
+└─────┘
+
+
+Action:
+
+Relying upon circular references is discouraged and they are prohibited by default. Update your application to remove the dependency cycle between beans. As a last resort, it may be possible to break the cycle automatically by setting spring.main.allow-circular-references to true.
+
+
+SOLUTION:
+https://stackoverflow.com/questions/71867218/relying-upon-circular-reference-is-discouraged-and-they-are-prohibited-by-defaul
+Add it to file application.properties
+
+spring.main.allow-circular-references=true
+###############################################################################
+
+
+
+
+
