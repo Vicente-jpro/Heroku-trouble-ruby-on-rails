@@ -11,6 +11,12 @@ kill -9 $(pidof ruby)
 rails s -e production
 ```
 
+### Error: Asset 'application.css' was not declared to be precompiled in production
+<a href="https://github.com/rails/sprockets-rails/issues/458"> See the in this link</a>
+Just run this command into your terminar
+```bash
+rake tmp:clear
+```
 ### Update ruby version in Rails project 
 Into the file `.ruby-version` change the old version `3.x.x` to `4.y.y.y`. <br/>
 Go into the `Gemfile` change ruby version `ruby "3.x.x"` to `ruby "3.y.y"`. <br/>
