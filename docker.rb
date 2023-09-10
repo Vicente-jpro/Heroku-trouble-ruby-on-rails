@@ -3,3 +3,6 @@ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys chave-pub
 
 Uninstall Redis
 https://askubuntu.com/questions/971188/uninstall-redis-after-manual-installation
+
+Sideckiq for docker
+https://yizeng.me/2019/11/17/add-sidekiq-to-a-docker-compose-managed-rails-project/
