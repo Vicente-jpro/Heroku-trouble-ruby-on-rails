@@ -49,3 +49,8 @@ https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-
 <a href="https://pt.wix.com/"> Wix </a>
 <br/>
 
+### Create installer of any web app
+
+<a href="https://github.com/nativefier/nativefier"> Nativefier </a>
+<br/>
+
