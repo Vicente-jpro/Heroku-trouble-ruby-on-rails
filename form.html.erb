@@ -1,0 +1,3 @@
+
+              <%= form.collection_select :province_id, Province.order(:province_name), :id, :province_name, 
+              { label: Province.model_name.human(count: 1) }, {onchange: 'hello()', class:"province"}  %> 
