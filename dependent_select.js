@@ -1,9 +1,8 @@
-
 $(document).ready(function(){
 
   // Fist select
   $(".province").click(function(){
-    var province_id = $('#profile_province_id').val()
+    var province_id = $('.province_select').val()
 
     // Second select
     $.get(
@@ -11,20 +10,16 @@ $(document).ready(function(){
       function(data, status){
      // console.log(data, status);
       
-      $('#profile_address_attributes_city_id')
+      $('.city_select')
       .empty()
 
-     for (var index = 0; index < data.length; index++) {
+      for (var index = 0; index < data.length; index++) {
 
-      if(data[index].id === undefined) {return}
-        $('#profile_address_attributes_city_id')
-          .append(`<option value="${data[index].id}"> ${data[index].city_name} </option>`);
-     }
+        if(data[index].id === undefined) {return}
+          $('.city_select')
+            .append(`<option value="${data[index].id}"> ${data[index].city_name} </option>`);
+      }
 
-    });
-
-
-
-  })
-
+      });
+    })
 });
