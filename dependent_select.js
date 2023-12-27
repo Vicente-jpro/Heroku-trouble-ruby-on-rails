@@ -2,24 +2,21 @@
 $(document).ready(function(){
 
   // Fist select
-
   $(".province").click(function(){
-    
-      // id from fist select #profile_province_id 
     var province_id = $('#profile_province_id').val()
-    console.log('Province id: ', province_id)
 
     // Second select
     $.get(
       `http://localhost:3000/cities/${province_id}/province`, 
       function(data, status){
-      console.log(data, status);
+     // console.log(data, status);
       
-      // id from second select #profile_province_id 
       $('#profile_address_attributes_city_id')
       .empty()
 
-     for (var index = 0; index <= data.length; index++) {
+     for (var index = 0; index < data.length; index++) {
+
+      if(data[index].id === undefined) {return}
         $('#profile_address_attributes_city_id')
           .append(`<option value="${data[index].id}"> ${data[index].city_name} </option>`);
      }
