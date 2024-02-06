@@ -1,5 +1,11 @@
 # Heroku-trouble
 Some links to solve problems about deployment
+ 
+### Create new rails application with bootstrap
+```bash
+rails new app4 -j esbuild --css bootstrap
+```
+
 
 ### Stop rails server
 ```bash
