@@ -10,6 +10,8 @@ rails new app4 -j esbuild --css bootstrap
 ### Stop rails server
 ```bash
 kill -9 $(pidof ruby)
+# OR
+kill $(lsof -t -i:3000)
 ```
 
 ### Run rails project in production
