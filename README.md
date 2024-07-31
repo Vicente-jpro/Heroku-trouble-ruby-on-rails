@@ -44,6 +44,8 @@ https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-
  <li> <a href="https://github.com/sdogruyol/awesome-ruby"> Awesome Ruby </a> </li>
  <li> <a href="https://github.com/gramantin/awesome-rails"> Awesome Rails </a> </li>
  <li> <a href="https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one"> Rails tutorial as API + Rspec </a>  </li>
+ <li> <a href="https://jumpstartrails.com/"> jumpstartrails.com </a> </li>
+ 
 </ul>
 
 
