@@ -13,3 +13,15 @@ https://github.com/heartcombo/devise/issues/5439
 
 devise_token_auth 1.1.0 installation fails with "undefined method 'devise' for User" #1276
 https://github.com/lynndylanhurley/devise_token_auth/issues/1276
+
+
+CAN NOT LOGOUT
+In config/initializer add this line
+config.sign_out_via = :get
+
+In route add this line
+ devise_for :users, controllers: {registrations: "registrations"}
+
+  devise_scope :user do
+    post '/users/sign_out', to: 'devise/sessions#destroy'
+  end
