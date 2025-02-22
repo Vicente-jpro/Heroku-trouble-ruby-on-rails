@@ -30,6 +30,7 @@ Into the file `.ruby-version` change the old version `3.x.x` to `4.y.y.y`. <br/>
 Go into the `Gemfile` change ruby version `ruby "3.x.x"` to `ruby "3.y.y"`. <br/>
 Then execute the command:
 ```bash
+bundle clean --force
 bundle update --bundler
 ```
 
