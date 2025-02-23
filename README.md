@@ -19,6 +19,12 @@ kill $(lsof -t -i:3000)
 rails s -e production
 ```
 
+
+### Rails credentials
+```bash
+EDITOR=code bin/rails credentials:edit
+```
+
 ### Error: Asset 'application.css' was not declared to be precompiled in production
 <a href="https://github.com/rails/sprockets-rails/issues/458"> See the in this link</a>
 Just run this command into your terminar
