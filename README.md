@@ -40,6 +40,10 @@ bundle clean --force
 bundle update --bundler
 ```
 
+### Install especifc bundler version
+```bash
+gem install bundler -v 3.y.z
+```
 
 ### 1 Backend, 5 Frontends - Todo List with Rails, React, Angular, Vue, Svelte, and jQuery
 <pre>
