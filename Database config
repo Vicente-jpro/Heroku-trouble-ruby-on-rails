@@ -1,2 +1,36 @@
 Database configurations
-https://gorails.com/setup/osx/11-big-sur
+
+docker run --name pg -e POSTGRES_PASSWORD=yourpassword -p 5432:5432 -d postgres
+
+# PostgreSQL. Versions 9.3 and up are supported.
+
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  # For details on connection pooling, see Rails configuration guide
+  # https://guides.rubyonrails.org/configuring.html#database-pooling
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+
+
+development:
+  <<: *default
+  database: bumbagora_development
+  host: localhost
+  port: 5432
+  username: postgres
+  password: yourpassword
+
+test:
+  <<: *default
+  database: bumbagora_test
+  host: localhost
+  port: 5432
+  username: postgres
+  password: yourpassword
+  #database: bumbagora_test
+production:
+  <<: *default
+  database: bumbagora_production
+  username: bumbagora
+  password: <%= ENV["BUMBAGORA_DATABASE_PASSWORD"] %>
+
